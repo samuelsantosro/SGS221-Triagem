@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TRIAGEM - SMAX SGS221
-// @namespace    https://github.com/samuelsantosro/SGS221-Triagem/
+// @namespace    https://github.com/samuelsantosro/SGS221-Triagem
 // @version      1.0
 // @description  Interface enhancements for triagem workflow
 // @author       YOU
