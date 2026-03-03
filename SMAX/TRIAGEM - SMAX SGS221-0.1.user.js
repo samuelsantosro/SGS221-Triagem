@@ -16,6 +16,8 @@
 // @supportURL   https://chatgpt.com
 // ==/UserScript==
 
+//teste
+
 (() => {
   'use strict';
 
