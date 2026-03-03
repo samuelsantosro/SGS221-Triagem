@@ -16,6 +16,8 @@
 // @supportURL   https://chatgpt.com
 // ==/UserScript==
 
+/* este é um teste para verificar se as atualizações estão sendo encaminhadas para os usuários*/
+
 (() => {
   'use strict';
 
