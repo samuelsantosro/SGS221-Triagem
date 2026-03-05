@@ -18,6 +18,7 @@
 
 /* 1.1 este é um teste para verificar se as atualizações estão sendo encaminhadas para os usuários*/
 
+
 (() => {
   'use strict';
 
