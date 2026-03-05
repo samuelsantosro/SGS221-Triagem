@@ -10,8 +10,8 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        unsafeWindow
-// @downloadURL  https://github.com/samuelsantosro/SGS221-Triagem/raw/refs/heads/master/TRIAGEM%20-%20SMAX%20SGS221-0.1.user.js
-// @updateURL    https://github.com/samuelsantosro/SGS221-Triagem/raw/refs/heads/master/TRIAGEM%20-%20SMAX%20SGS221-0.1.user.js
+// @downloadURL  https://github.com/samuelsantosro/SGS221-Triagem/raw/refs/heads/master/SMAX/TRIAGEM%20-%20SMAX%20SGS221-0.1.user.js
+// @updateURL    https://github.com/samuelsantosro/SGS221-Triagem/raw/refs/heads/master/SMAX/TRIAGEM%20-%20SMAX%20SGS221-0.1.user.js
 // @homepageURL  https://github.com/samuelsantosro/SGS221-Triagem
 // @supportURL   https://chatgpt.com
 // ==/UserScript==
