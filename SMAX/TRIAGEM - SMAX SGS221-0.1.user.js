@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TRIAGEM - SMAX SGS221
-// @namespace    https://github.com/samuelsantosro/SGS221-Triagem
-// @version      1.0
+// @namespace    https://github.com/samuelsantosro/SGS221-Triagem/
+// @version      1.1
 // @description  Interface enhancements for triagem workflow
 // @author       YOU
 // @match        https://suporte.tjsp.jus.br/saw/Requests*
@@ -10,14 +10,13 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        unsafeWindow
-// @downloadURL  https://raw.githubusercontent.com/samuelsantosro/SGS221-Triagem/raw/refs/heads/samuel/TRIAGEM%20-%20SMAX%20SGS221-0.1.user.js
-// @updateURL    https://raw.githubusercontent.com/samuelsantosro/SGS221-Triagem/raw/refs/heads/samuel/TRIAGEM%20-%20SMAX%20SGS221-0.1.user.js
+// @downloadURL  https://github.com/samuelsantosro/SGS221-Triagem/raw/refs/heads/samuel/SMAX/TRIAGEM%20-%20SMAX%20SGS221-0.1.user.js
+// @updateURL    https://github.com/samuelsantosro/SGS221-Triagem/raw/refs/heads/samuel/SMAX/TRIAGEM%20-%20SMAX%20SGS221-0.1.user.js
 // @homepageURL  https://github.com/samuelsantosro/SGS221-Triagem
 // @supportURL   https://chatgpt.com
 // ==/UserScript==
 
-//teste
-//teste
+/* este é um teste para verificar se as atualizações estão sendo encaminhadas para os usuários*/
 
 (() => {
   'use strict';
