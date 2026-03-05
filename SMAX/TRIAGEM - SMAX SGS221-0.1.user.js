@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TRIAGEM - SMAX SGS221
 // @namespace    https://github.com/samuelsantosro/SGS221-Triagem/
-// @version      1.3
+// @version      1.4
 // @description  Interface enhancements for triagem workflow
 // @author       YOU
 // @match        https://suporte.tjsp.jus.br/saw/Requests*
@@ -16,7 +16,7 @@
 // @supportURL   https://chatgpt.com
 // ==/UserScript==
 
-/* 1.3 este é um teste para verificar se as atualizações estão sendo encaminhadas para os usuários*/
+/* 1.4 este é um teste para verificar se as atualizações estão sendo encaminhadas para os usuários*/
 
 
 (() => {
